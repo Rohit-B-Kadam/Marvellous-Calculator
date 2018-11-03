@@ -1,0 +1,45 @@
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe.config
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.pdb
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.g.cs
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\App.g.cs
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.cache
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.lref
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.baml
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.g.resources
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous_Calculator.Properties.Resources.resources
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.GenerateResource.cache
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Learning\Project\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.pdb
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.g.cs
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\App.g.cs
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.cache
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.lref
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.pdb
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe.config
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.pdb
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.baml
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.g.resources
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous_Calculator.Properties.Resources.resources
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.GenerateResource.cache
+H:\Technology\Dot Net\Project\Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe.config
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\bin\Debug\Marvellous Calculator.pdb
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.g.cs
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\App.g.cs
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator_MarkupCompile.lref
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\MainWindow.baml
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.g.resources
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous_Calculator.Properties.Resources.resources
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.GenerateResource.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.exe
+H:\Technology\Dot Net\Project\Marvellous Calculator\Marvellous Calculator\Marvellous Calculator\obj\Debug\Marvellous Calculator.pdb
