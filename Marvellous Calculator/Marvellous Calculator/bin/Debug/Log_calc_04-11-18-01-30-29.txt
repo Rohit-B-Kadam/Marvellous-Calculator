@@ -1,0 +1,19 @@
+All Calculation Perform at  04-11-18-01-30-29
+
+EQU: 2 & 3 + 8 << 5 >> 1 ^ 5
+    = 5 Dec
+
+EQU: 5 >> 2 | 5 << 3
+    = 41 Dec
+
+OnBit operation poistion 4 on 565 is: 565 
+
+OffBit operation poistion 4 on 565 is: 549 
+
+OnBit operation poistion 4 on 549 is: 565 
+
+565 IsPrime: False
+
+23 IsPrime: True
+
+264 Factors: {  1, 2, 3, 4, 6, 8, 11, 12, 22, 24, 33, 44, 66, 88, 132, }

@@ -10,3 +10,9 @@ H:\Technology\Dot Net\Project\Calculator\CalculatorClassLibrary\CalculatorClassL
 H:\Technology\Dot Net\Project\Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.csproj.CoreCompileInputs.cache
 H:\Technology\Dot Net\Project\Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.dll
 H:\Technology\Dot Net\Project\Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.pdb
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\bin\Debug\CalculatorClassLibrary.dll
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\bin\Debug\CalculatorClassLibrary.pdb
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.dll
+H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\obj\Debug\CalculatorClassLibrary.pdb

@@ -308,13 +308,13 @@ namespace Marvellous_Calculator
                 if (e is InvalidOperationException)
                 {
                     msg = "Syntax Error: " + e.Message;
-                    MessageBox.Show($"{msg}", "Marvellous Calculator");
+                    MessageBox.Show($"{msg}", "Error");
                     return 1;   // Stack empty
                 }
                 else if (e is OverflowException)
                 {
                     msg = "Maths Error: " + e.Message;
-                    MessageBox.Show($"{msg}", "Marvellous Calculator");
+                    MessageBox.Show($"{msg}", "Error");
                     return 2;   // OverFlowException
                 }
    
@@ -356,10 +356,13 @@ namespace Marvellous_Calculator
             }
             else if (iRet == 1)    //Maths Error
             {
-                // Replacing last opertor with new operator
-                int position = expression.Length - 2 - opr.Length;
-                expression.Remove( position , expression.Length - position );
-                expression.AppendFormat(" {0} ", opr);
+                //if (expression.Length >= 2)
+                //{
+                //    // Replacing last opertor with new operator
+                //    int position = expression.Length - 2 - opr.Length;
+                //    expression.Remove(position, expression.Length - position);
+                //    expression.AppendFormat(" {0} ", opr);
+                //}
             }
             else                    // OverFlow Exception
             { 
@@ -548,6 +551,7 @@ namespace Marvellous_Calculator
             return data;
         }
 
+
         // Bitwise opertion like (onBit , offBit, toggleBit
         public string[] BitwiseOperation( string opr , int pos)
         {
@@ -560,6 +564,7 @@ namespace Marvellous_Calculator
                     value = answer;
                     answer = "";
                 }
+                
                 string valueStore = value;
 
                 MethodInfo mi = BitwiseT.GetMethod(opr);
@@ -606,7 +611,7 @@ namespace Marvellous_Calculator
 
                 object oRet = mi.Invoke(null, param);
                 string temp = $"{value} {functName}: {oRet.ToString()}";
-                MessageBox.Show($"{temp}", "Marvellous Calculator");
+                MessageBox.Show($"{temp}", "Answer");
 
                 using (StreamWriter sw = PaperTape.AppendText())
                 {

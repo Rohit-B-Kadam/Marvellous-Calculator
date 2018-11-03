@@ -111,8 +111,8 @@ public class EvaluateString
             case "-":
                 value = 11;
                 break;
-            case ">":
-            case "<":  //left sift and right shift
+            case ">>":
+            case "<<":  //left sift and right shift
                 value = 10;
                 break;
             case "!":
@@ -497,7 +497,10 @@ public class Bitwise
             int no = Convert.ToInt32(sNo);
             sNum1 = ToBinary(sNum1);
             int len = sNum1.Length - no;
-
+            if(len < 0)
+            {
+                return "0";
+            }
             sNum2 = sNum1.Substring(0, len);
 
             return Convert.ToInt64(sNum2, 2).ToString();
