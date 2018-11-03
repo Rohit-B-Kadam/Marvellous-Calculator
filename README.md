@@ -28,43 +28,43 @@ It is programmer calculator developed in C# and wpf(Windows Presentation Foundat
 ---
 1. First Look of Calculator.
 
-![First Look](\Screenshot\calc1.png)
+![First Look](Screenshot/calc1.png)
 
 ---
 
 2. Follows Precedence levels
 
-![Basic Calculation](\Screenshot\calc2.png)
+![Basic Calculation](Screenshot/calc2.png)
 
 ---
 
 3. Bitwise operator operation
 
-![Bitwise operator](\Screenshot\calc3.png)
+![Bitwise operator](Screenshot/calc3.png)
 
 ---
 4. Convertion into hex
 
-![Convertion](\Screenshot\calc4.png)
+![Convertion](Screenshot/calc4.png)
 
 ---
 5. Bit opeartion
 
-![Bit operation](\Screenshot\calc5.png)
+![Bit operation](Screenshot/calc5.png)
 
 ---
 6. Checking if number is prime or not
 
-![Fucntion isPrime](\Screenshot\calc6.png)
+![Fucntion isPrime](Screenshot/calc6.png)
 
 ---
 7. Get All factor of given number.
 
-![Fucntion Factors](\Screenshot\calc7.png)
+![Fucntion Factors](Screenshot/calc7.png)
 
 ---
 8. click 'yes' to save the calculation history.
 
-![Saving history](\Screenshot\calc8.png)
+![Saving history](Screenshot/calc8.png)
 
 ---
