@@ -49,7 +49,7 @@ namespace Marvellous_Calculator
             try
             {
                 // Path of DLL
-                DLLPath = @"H:\Technology\Dot Net\Project\Marvellous Calculator\CalculatorClassLibrary\CalculatorClassLibrary\bin\Debug\CalculatorClassLibrary.dll";
+                DLLPath = @"C:\Copy_to_C_Drive\CalculatorClassLibrary.dll";
                 DLL = Assembly.LoadFile(DLLPath);
                 
                 
@@ -332,11 +332,7 @@ namespace Marvellous_Calculator
             string[] data = new string[2];
             int iRet;
 
-            if (value.Equals("0") && screenData.Length != 0)
-            {
-                // if user don't give the data.. Do nothing
-            }
-            else if (answer.Equals(""))
+            if (answer.Equals(""))
             {
                 expression.Append(value);
             }
